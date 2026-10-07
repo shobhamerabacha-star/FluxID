@@ -3,8 +3,6 @@ node_modules/
 out/
 dist/
 build/
-.env
-.env.local
 .env.*.local
 *.log
 npm-debug.log*
@@ -14,3 +12,4 @@ yarn-error.log*
 *.pem
 # Soroban test snapshots — local-only artifacts
 test_snapshots/
+config.bat
